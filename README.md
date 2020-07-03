@@ -1,4 +1,6 @@
-# HeatMap
+# Basic Example Angular d3 popOver
+
+For be able to run [ng serve --open] , you need first to install:  [npm install --save-dev @angular-devkit/build-angular]
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.22.
 
