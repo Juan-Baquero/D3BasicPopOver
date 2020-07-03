@@ -1,12 +1,18 @@
 # Basic Example Angular d3 popOver
 
+## Important DO this FIRST
+
 For be able to run [ng serve --open] , you need first to install:  [npm install --save-dev @angular-devkit/build-angular]
+
+Now in node_modules/@ng-bootsrap/popover.d.ts  change to public the propiety _elementRef 
+
+## Then Development server
+
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.22.
 
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 
